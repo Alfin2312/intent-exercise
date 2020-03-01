@@ -49,7 +49,7 @@ public class RegisterActivity extends AppCompatActivity {
         confirm_password = findViewById(R.id.text_confirm_password);
         homepage = findViewById(R.id.text_homepage);
         about = findViewById(R.id.text_about);
-        image_profile = findViewById(R.id.img_profile);
+        image_profile = findViewById(R.id.image_profile);
     }
 
     @Override

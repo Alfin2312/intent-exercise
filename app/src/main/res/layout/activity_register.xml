@@ -38,7 +38,7 @@
 
             <ImageView
                 android:id="@+id/imageView"
-                android:onClick="handleChangePicture"
+                android:onClick="handleChangeAvatar"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 app:layout_constraintBottom_toBottomOf="@+id/image_profile"
