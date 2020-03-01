@@ -19,7 +19,7 @@ public class ProfileActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profile);
-        image_profile = findViewById(R.id.img_profile);
+        image_profile = findViewById(R.id.image_profile);
         fullname = findViewById(R.id.label_fullname);
         email = findViewById(R.id.label_email);
         homepage = findViewById(R.id.label_homepage);

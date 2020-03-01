@@ -178,7 +178,7 @@
 
     <Button
         android:id="@+id/button_ok"
-        android:onClick="handleProfile"
+        android:onClick="handleOk"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"

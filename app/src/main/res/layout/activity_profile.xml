@@ -203,7 +203,7 @@
         <Button
             android:id="@+id/button_homepage"
             android:layout_width="0dp"
-            android:onClick="handleHompage"
+            android:onClick="handleOpenHomepage"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
